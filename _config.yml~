@@ -10,11 +10,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 猛烈智慧慾望妓院
-tagline: 
-author :WSP
+tagline: Site Tagline
+author :
   name : Name Lastname
-  email : DarlsaWen@gmail.com
-  github : DarlsaWen
+  email : blah@email.test
+  github : username
   twitter : username
   feedburner : feedname
 
